@@ -1,65 +1,131 @@
+
+// export const defaultLang = {
+//     months: {
+//         full: [
+//             'January',
+//             'February',
+//             'March',
+//             'April',
+//             'May',
+//             'June',
+//             'July',
+//             'August',
+//             'September',
+//             'October',
+//             'November',
+//             'December'
+//         ],
+//
+//         abbreviated: [
+//             'Jan',
+//             'Feb',
+//             'Mar',
+//             'Apr',
+//             'May',
+//             'Jun',
+//             'Jul',
+//             'Aug',
+//             'Sep',
+//             'Oct',
+//             'Nov',
+//             'Dec'
+//         ]
+//     },
+//
+//     days: {
+//         full: [
+//             'Sunday',
+//             'Monday',
+//             'Tuesday',
+//             'Wednesday',
+//             'Thursday',
+//             'Friday',
+//             'Saturday'
+//         ],
+//
+//         abbreviated: [
+//             'Sun',
+//             'Mon',
+//             'Tue',
+//             'Wed',
+//             'Thu',
+//             'Fri',
+//             'Sat'
+//         ],
+//
+//         initials: [
+//             'S',
+//             'M',
+//             'T',
+//             'W',
+//             'T',
+//             'F',
+//             'S'
+//         ]
+//     }
+// };
 export const defaultLang = {
     months: {
         full: [
-            'January',
-            'February',
-            'March',
-            'April',
-            'May',
-            'June',
-            'July',
-            'August',
-            'September',
-            'October',
-            'November',
-            'December'
+            '一月',
+            '二月',
+            '三月',
+            '四月',
+            '五月',
+            '六月',
+            '七月',
+            '八月',
+            '九月',
+            '十月',
+            '十一月',
+            '十二月'
         ],
 
         abbreviated: [
-            'Jan',
-            'Feb',
-            'Mar',
-            'Apr',
-            'May',
-            'Jun',
-            'Jul',
-            'Aug',
-            'Sep',
-            'Oct',
-            'Nov',
-            'Dec'
+            '1月',
+            '2月',
+            '3月',
+            '4月',
+            '5月',
+            '6月',
+            '7月',
+            '8月',
+            '9月',
+            '10月',
+            '11月',
+            '12月'
         ]
     },
 
     days: {
         full: [
-            'Sunday',
-            'Monday',
-            'Tuesday',
-            'Wednesday',
-            'Thursday',
-            'Friday',
-            'Saturday'
+            '星期日',
+            '星期一',
+            '星期二',
+            '星期三',
+            '星期四',
+            '星期五',
+            '星期六'
         ],
 
         abbreviated: [
-            'Sun',
-            'Mon',
-            'Tue',
-            'Wed',
-            'Thu',
-            'Fri',
-            'Sat'
+            '星期日',
+            '星期一',
+            '星期二',
+            '星期三',
+            '星期四',
+            '星期五',
+            '星期六'
         ],
 
         initials: [
-            'S',
-            'M',
-            'T',
-            'W',
-            'T',
-            'F',
-            'S'
+            '日',
+            '一',
+            '二',
+            '三',
+            '四',
+            '五',
+            '六'
         ]
     }
 };

@@ -11,7 +11,6 @@
 <script>
 export default {
     name: 'ui-icon',
-
     props: {
         icon: String,
         iconSet: {
@@ -28,6 +27,7 @@ export default {
             default: false
         }
     }
+
 };
 </script>
 
